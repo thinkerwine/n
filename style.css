@@ -17,11 +17,5 @@ body {
 }
 .dog {
     height: 200px;
-    border-radius: 15px;
-    display: flex;
-    justify-content: center;
-}
-.pac {
-    display: flex;
-    justify-content: center;
+    border-radius: 15px; 
 }
