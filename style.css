@@ -19,3 +19,7 @@ body {
     height: 200px;
     border-radius: 15px; 
 }
+.dogg {
+    display: block;
+    text-align: center;
+}
