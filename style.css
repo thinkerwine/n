@@ -17,8 +17,8 @@ body {
 }
 .dog {
     height: 200px;
-    text-align: center;
+    justify-content: center;
 }
 .pac {
-    text-align: center;
+    justify-content: center;
 }
