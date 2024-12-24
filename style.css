@@ -18,10 +18,10 @@ body {
 .dog {
     height: 200px;
     border-radius: 15px;
-    display: block;
-    margin:0 auto
+    display: flex;
+    justify-content: center;
 }
 .pac {
-    display: block;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
 }
